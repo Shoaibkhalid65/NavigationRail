@@ -9,7 +9,6 @@ This project explores and implements all major types of **Navigation Rails** ava
 - ✅ Implemented multiple types of Navigation Rails:
   - `NavigationRail`
   - `WideNavigationRail`
-  - `ModalNavigationRail`
   - `ModalWideNavigationRail`
 
 - ✅ Integrated with **Jetpack Navigation Component**:
